@@ -4,5 +4,21 @@
 
 *Italic*
 > be me
+
 - hungry
 - tired
+
+1. bk #7
+2. chick fila chicken sandwich with 4 chick fila sauce
+3. denny's build your own burger. cheese is sin
+
+always remember
+
+![Image](https://i.kym-cdn.com/photos/images/newsfeed/002/230/204/97e.png)
+
+``` 
+# some inline code
+print 'aye'
+print 'aye'
+print 'aye'
+```
