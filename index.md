@@ -1,7 +1,7 @@
 # Heading 1
 ## Heading 2
 ** Bold **
-* Italic *
+*Italic*
 > be me
 - hungry
 - tired
