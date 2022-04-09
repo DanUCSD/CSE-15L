@@ -25,3 +25,7 @@ print 'aye'
 
 WE DEM KOIS 
 ![Image](https://i.ytimg.com/vi/TLm1eZLEs_o/hqdefault.jpg)
+
+[Lab Report 1](https://DanUCSD.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+
+[Lab Report 1 test](lab-report-1-week-2.html)
