@@ -16,12 +16,7 @@ always remember
 
 ![Image](https://i.kym-cdn.com/photos/images/newsfeed/002/230/204/97e.png)
 
-``` 
-# some inline code
-print 'aye'
-print 'aye'
-print 'aye'
-```
+
 
 WE DEM KOIS 
 ![Image](https://i.ytimg.com/vi/TLm1eZLEs_o/hqdefault.jpg)
