@@ -22,3 +22,5 @@ WE DEM KOIS
 ![Image](https://i.ytimg.com/vi/TLm1eZLEs_o/hqdefault.jpg)
 
 [Lab Report 1](https://DanUCSD.github.io/cse15l-lab-reports/week-2-lab/lab-report-1-week-2.html)
+
+[Lab Report 2](https://DanUCSD.github.io/cse15l-lab-reports/week-4-lab/lab-report-2-week-4.html)
