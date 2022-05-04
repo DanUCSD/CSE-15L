@@ -2,6 +2,7 @@
 
 ## Streamlining ssh Configuration
 ![Image](sshTextEdit.png)
+
 Here, I used TextEdit to edit ~/.ssh/config. 
 
 ![Image](sshLogIn.png)
@@ -11,3 +12,9 @@ I logged in using ssh ieng6, which is the alias I chose to log in here.
 Here, I used ieng6 to quickly transfer my schedule from my desktop to the remote server.
 
 ## Setup Github Access from ieng6
+![Image](pubKeyGH.png)
+Here is my public key on GitHub
+
+![Image](privKey.png)
+Here is my priv key stored in .ssh
+
