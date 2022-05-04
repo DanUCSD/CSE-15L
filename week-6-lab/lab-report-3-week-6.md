@@ -15,6 +15,6 @@ Here, I used ieng6 to quickly transfer my schedule from my desktop to the remote
 ![Image](pubKeyGH.png)
 Here is my public key on GitHub
 
-![Image](privKey.png)
+![Image](privkey.png)
 Here is my priv key stored in .ssh
 
