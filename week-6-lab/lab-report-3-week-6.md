@@ -18,10 +18,10 @@ Here is my public key on GitHub
 ![Image](privkey.png)
 Here is my priv key stored in .ssh
 
-![Image]()
+![Image](gitOnRemote.png)
 Here is the git add, commit, and push commands from ieng6 to GitHub
 
-[fromRemote]()
+[fromRemote](https://github.com/DanUCSD/cse15l-lab-reports/blob/main/week-6-lab/test.png)
 Here is the resulting link to that file add
 
 ## Copy Whole Directories with scp -r
