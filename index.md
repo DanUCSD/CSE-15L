@@ -26,3 +26,5 @@ WE DEM KOIS
 [Lab Report 2](https://DanUCSD.github.io/cse15l-lab-reports/week-4-lab/lab-report-2-week-4.html)
 
 [Lab Report 3](https://DanUCSD.github.io/cse15l-lab-reports/week-6-lab/lab-report-3-week-6.html)
+
+[Lab Report 4](https://DanUCSD.github.io/cse15l-lab-reports/week-6-lab/lab-report-4-week-8.html)
